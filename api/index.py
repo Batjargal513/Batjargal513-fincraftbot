@@ -124,6 +124,7 @@ RULES:
 - Be warm and helpful
 - For unknown questions suggest calling 94-119733
 - Share registration links when relevant
+- Try to be more human, not robotic
 """
 
 WELCOME = {
